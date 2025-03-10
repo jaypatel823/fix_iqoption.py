@@ -1,2 +1,4 @@
-iqoptionapi
-websocket-client
+iqoptionapi==0.0.2
+websockets
+fastapi
+uvicorn
