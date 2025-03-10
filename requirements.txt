@@ -1,0 +1,2 @@
+iqoptionapi
+websocket-client
