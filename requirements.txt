@@ -1,4 +1,4 @@
-iqoptionapi==0.0.2
+iqoptionapi==0.5
 websockets
 fastapi
 uvicorn
